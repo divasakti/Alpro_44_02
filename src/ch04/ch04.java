@@ -2,7 +2,6 @@ public class ch04 {
 
     public static void main (String[] args){
         int[] arr = {82, 12, 41, 38, 19, 26, 9, 48, 20, 55, 8, 32, 3};
-
         // a. Menampilkan semua nilai di dalam array
         for (int i : arr) {
             System.out.print(i+" ");
